@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int num=20;
+if(num<10)
+{
+printf("the number is greater than 10",num);
+}
+else
+{
+printf("the number is lesser than 10",num);
+}
+return 0;
+}
